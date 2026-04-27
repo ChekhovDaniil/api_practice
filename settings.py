@@ -1,1 +1,0 @@
-yd_token = 'token'
